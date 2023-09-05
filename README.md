@@ -14,4 +14,4 @@ Vagrant Story font replacement:
 		deleting them.
 
 3. Run font.py
-4. That's it!
+4. Your bin file is now patched!
