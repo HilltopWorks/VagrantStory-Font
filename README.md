@@ -12,6 +12,7 @@ Vagrant Story font replacement:
 		This can be done easily in photoshop by adding a white background to the text,
 		and then selecting all the pure white pixels with the magic selection tool and
 		deleting them.
+	The font image uses 12x12 cells for each letter, so set your grid size to that in photoshop.
 
-3. Run font.py
-4. Your bin file is now patched!
+4. Run font.py
+5. Your bin file is now patched!
