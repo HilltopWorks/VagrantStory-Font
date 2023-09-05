@@ -49,4 +49,4 @@ def extractFile(targetBinPath, out_path, startSector, size_in_bytes):
     return
 
 
-extractFile("bin\\Vagrant Story (USA).bin", "System_dat_test_out.bin", 1387, 0x2e000)
+#extractFile("bin\\Vagrant Story (USA).bin", "System_dat_test_out.bin", 1387, 0x2e000)
